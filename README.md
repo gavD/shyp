@@ -1,5 +1,5 @@
-Magical Tweet Machine
-=====================
+Shyp - Magical Tweet Scheduler
+==============================
 
 Utility for breaking up a piece of writing into tweet-sized chunks and scheduling them using Tweetdeck.
 
@@ -14,6 +14,11 @@ The available APIs were all either (a) expensive or (b) only allowed you to sche
 number of tweets.
 
 So, I built this toolchain. 
+
+How it came about
+-----------------
+
+![This tool works biomechanically in both concept and execution](how-it-came-about.png)
 
 How does it work (for artists)
 ------------------------------
